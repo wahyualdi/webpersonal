@@ -1,0 +1,52 @@
+#main img {
+  width: 100%;
+}
+
+.rounded-image {
+  border-radius: 500px;
+  -webkit-border-radius: 500px;
+  -moz-border-radius: 500px;
+}
+
+#main h1 {
+  font-size: 64px;
+  line-height: 1;
+}
+
+#main p {
+  font-size: 24px;
+}
+
+#main button {
+  padding: 15px 30px;
+}
+
+#main a {
+  color: white;
+}
+
+#main a:hover {
+  color: white;
+}
+
+#bs-icon h2,
+#bs-thema h2 {
+  font-size: 40px;
+}
+
+.bio {
+  font-size: 30px;
+}
+
+#footer a {
+  text-decoration: none;
+  color: white;
+}
+
+#footer a:hover {
+  text-decoration: underline;
+}
+
+#footer a.logo:hover {
+  text-decoration: none;
+}
